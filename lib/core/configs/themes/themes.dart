@@ -2,8 +2,8 @@
 //? :  barel file for all themes
 import 'package:flutter/material.dart';
 
-export 'package:clean_architecture/common/configs/themes/dark_theme.dart';
-export 'package:clean_architecture/common/configs/themes/light_theme.dart';
+export 'package:clean_architecture/core/configs/themes/dark_theme.dart';
+export 'package:clean_architecture/core/configs/themes/light_theme.dart';
 
 
 

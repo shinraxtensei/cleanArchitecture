@@ -1,5 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:clean_architecture/common/usecases/use_case.dart';
+import 'package:clean_architecture/core/usecases/use_case.dart';
 import 'package:clean_architecture/features/cats/domain/entities/cat_entity.dart';
 import 'package:clean_architecture/features/cats/domain/usecases/get_cats.dart';
 import 'package:equatable/equatable.dart';

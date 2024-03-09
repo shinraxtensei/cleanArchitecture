@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:clean_architecture/common/error/exception.dart';
+import 'package:clean_architecture/core/error/exception.dart';
 import 'package:clean_architecture/features/cats/data/models/cat_model.dart';
 import 'package:http/http.dart' as http;
 

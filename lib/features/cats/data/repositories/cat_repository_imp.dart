@@ -1,5 +1,5 @@
-import 'package:clean_architecture/common/error/exception.dart';
-import 'package:clean_architecture/common/error/failure.dart';
+import 'package:clean_architecture/core/error/exception.dart';
+import 'package:clean_architecture/core/error/failure.dart';
 import 'package:clean_architecture/features/cats/data/datasources/get_remote_cats.dart';
 import 'package:clean_architecture/features/cats/domain/entities/cat_entity.dart';
 import 'package:clean_architecture/features/cats/domain/repositories/cat_repository.dart';
